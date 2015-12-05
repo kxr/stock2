@@ -1,0 +1,12 @@
+.panel {
+   background: #212121;
+   color: silver;
+   font-size: 14px;
+   font-weight: bold;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.panel:hover {
+   color: white;
+   }

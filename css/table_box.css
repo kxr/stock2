@@ -1,0 +1,42 @@
+#table_box
+{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "Sans-Serif";
+	font-size: 12px;
+	margin: 2px;
+	/*width: 480px;*/
+	text-align: left;
+	border-collapse: collapse;
+}
+
+#table_box th
+{
+	font-size: 13px;
+	font-weight: bold;
+	padding: 4px;
+	background: #b9c9fe;
+	border-top: 4px solid #aabcfe;
+	border-bottom: 1px solid #fff;
+	color: #039;
+}
+
+#table_box td
+{
+	padding: 2px;
+	background: #e8edff; 
+	border-bottom: 1px solid #fff;
+	color: #000;
+	/*color: #669*/
+	border-top: 1px solid transparent;
+}
+
+#table_box tr:hover td
+{
+	background: #d0dafd;
+	color: #000;
+	/*color: #339*/
+}
+/*#table_box a
+{
+text-decoration: none;
+color: #000;
+}*/
